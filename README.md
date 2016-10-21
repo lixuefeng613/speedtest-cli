@@ -9,3 +9,8 @@ centos一键安装speedtest-cli
 
 执行：sh speedtest-cli.sh
 
+结果：
+
+
+![image](https://raw.githubusercontent.com/lixuefeng613/speedtest-cli/master/result.png)
+
